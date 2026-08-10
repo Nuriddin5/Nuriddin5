@@ -42,29 +42,3 @@ Node.js • Express • REST APIs • WebSockets
 
 **Desktop Applications**  
 Cross-platform desktop software
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nuriddin5&show_icons=true&hide_border=true"
-    height="165"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuriddin5&layout=compact&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
-<p align="center">
-  <b>Mobile • Full-Stack • Desktop</b>
-</p>
-
-<p align="center">
-  Building useful products with clean engineering.
-</p>
