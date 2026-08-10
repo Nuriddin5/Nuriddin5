@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nuriddin Qurbonboyev</h1>
 
-<!--
-**Nuriddin5/Nuriddin5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Mobile & Full-Stack Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building modern mobile, web and desktop applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 📱 Building cross-platform mobile apps with **Flutter**
+- 🌐 Developing full-stack web applications
+- ⚙️ Working with backend APIs and real-time systems
+- 🖥️ Building cross-platform desktop applications
+- 🚀 Focused on clean architecture and production-ready products
+- 📍 Tashkent, Uzbekistan
+
+---
+
+## 🛠 Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,nextjs,nodejs,express,html,css,postgres,firebase,git,github,vscode,androidstudio" />
+</p>
+
+---
+
+## ⚡ What I Build
+
+**Mobile Development**  
+Flutter • Dart • Android
+
+**Frontend Development**  
+React • Next.js • TypeScript • JavaScript
+
+**Backend Development**  
+Node.js • Express • REST APIs • WebSockets
+
+**Desktop Applications**  
+Cross-platform desktop software
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nuriddin5&show_icons=true&hide_border=true"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuriddin5&layout=compact&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+<p align="center">
+  <b>Mobile • Full-Stack • Desktop</b>
+</p>
+
+<p align="center">
+  Building useful products with clean engineering.
+</p>
