@@ -1,20 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nuriddin Qurbonboyev</h1>
-
-<h3 align="center">
-Mobile & Full-Stack Developer
-</h3>
-
-<p align="center">
-Building modern mobile, web and desktop applications.
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
+- ☕ Building scalable backend systems with **Java & Spring Boot**
 - 📱 Building cross-platform mobile apps with **Flutter**
 - 🌐 Developing full-stack web applications
-- ⚙️ Working with backend APIs and real-time systems
+- ⚙️ Working with APIs, real-time systems and distributed services
 - 🖥️ Building cross-platform desktop applications
 - 🚀 Focused on clean architecture and production-ready products
 - 📍 Tashkent, Uzbekistan
@@ -23,22 +14,52 @@ Building modern mobile, web and desktop applications.
 
 ## 🛠 Languages & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,nextjs,nodejs,express,html,css,postgres,firebase,git,github,vscode,androidstudio" />
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kafka,redis,nodejs,express" />
 </p>
+
+**Java • Spring Boot • REST APIs • Microservices • PostgreSQL • MySQL • Docker • Kafka • Redis • Node.js • Express**
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</p>
+
+**Flutter • Dart • Android**
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
+
+**React • Next.js • TypeScript • JavaScript • HTML • CSS**
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
+
+**Git • GitHub • VS Code • Firebase**
 
 ---
 
 ## ⚡ What I Build
 
+**Backend Engineering**  
+Java • Spring Boot • REST APIs • Microservices • Real-time Systems
+
 **Mobile Development**  
 Flutter • Dart • Android
 
-**Frontend Development**  
+**Full-Stack Web Development**  
 React • Next.js • TypeScript • JavaScript
-
-**Backend Development**  
-Node.js • Express • REST APIs • WebSockets
 
 **Desktop Applications**  
 Cross-platform desktop software
+
+---
